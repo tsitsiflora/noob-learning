@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automation with bash!
+title: An introduction to Automation with bash!
 ---
 
 ## What is Shell/Bash Scripting
