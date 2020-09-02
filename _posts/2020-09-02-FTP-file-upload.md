@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Script to upload file to an FTP server
+title: Python Script to upload a file to an FTP server
 ---
 
 ## Boring Explanations *tldr
